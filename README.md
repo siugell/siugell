@@ -1,4 +1,6 @@
 ## Hi there 👋
+Im siugell
+GCU SW 21
 
 <!--
 **siugell/siugell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
