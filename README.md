@@ -1,5 +1,8 @@
 ## Hi there 👋
-Im siugell
+Im siugell 
+
+Korean Software developer
+
 GCU SW 21
 
 <!--
